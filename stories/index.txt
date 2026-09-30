@@ -1,0 +1,335 @@
+2:I[39,["411","static/chunks/411-e05764ad5c6e83b8.js","586","static/chunks/586-142db2ce3ee37c4d.js","747","static/chunks/app/stories/page-8e1658faa99c966e.js"],"StoriesDone"]
+3:I[5411,["411","static/chunks/411-e05764ad5c6e83b8.js","586","static/chunks/586-142db2ce3ee37c4d.js","747","static/chunks/app/stories/page-8e1658faa99c966e.js"],""]
+16:I[2728,[],""]
+17:I[9836,[],""]
+19:I[6488,["411","static/chunks/411-e05764ad5c6e83b8.js","586","static/chunks/586-142db2ce3ee37c4d.js","185","static/chunks/app/layout-5e2e36b2d962a103.js"],"TopNav"]
+1a:I[1271,["411","static/chunks/411-e05764ad5c6e83b8.js","586","static/chunks/586-142db2ce3ee37c4d.js","185","static/chunks/app/layout-5e2e36b2d962a103.js"],"StarCounter"]
+1c:I[6488,["411","static/chunks/411-e05764ad5c6e83b8.js","586","static/chunks/586-142db2ce3ee37c4d.js","185","static/chunks/app/layout-5e2e36b2d962a103.js"],"BottomNav"]
+1d:I[9148,["411","static/chunks/411-e05764ad5c6e83b8.js","586","static/chunks/586-142db2ce3ee37c4d.js","185","static/chunks/app/layout-5e2e36b2d962a103.js"],"RewardToaster"]
+4:Ta51,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M88 40 Q94 30 100 38 Q106 30 112 40" fill="none" stroke-width="3"/>
+  <circle cx="100" cy="66" r="4" fill="#e3533f" stroke-width="2"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  <circle cx="58" cy="142.0" r="7" fill="#ffc93c" stroke-width="2.5"/><circle cx="68" cy="151.5" r="7" fill="#ff9f1c" stroke-width="2.5"/><circle cx="80" cy="159.2" r="7" fill="#ffc93c" stroke-width="2.5"/><circle cx="93" cy="163.4" r="7" fill="#ff9f1c" stroke-width="2.5"/><circle cx="107" cy="163.4" r="7" fill="#ffc93c" stroke-width="2.5"/><circle cx="120" cy="159.2" r="7" fill="#ff9f1c" stroke-width="2.5"/><circle cx="132" cy="151.5" r="7" fill="#ffc93c" stroke-width="2.5"/><circle cx="142" cy="142.0" r="7" fill="#ff9f1c" stroke-width="2.5"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>5:T893,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M56 70 Q58 26 100 24 Q142 26 144 70 Z" fill="#ffc93c"/>
+  <path d="M100 27 L100 64" fill="none" stroke-width="2.5"/>
+  <rect x="50" y="63" width="100" height="12" rx="6" fill="#f4a300"/>
+  <circle cx="100" cy="23" r="6" fill="#ff7a6b"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>a:{"className":"bg-white/40"}
+9:["$","span",null,"$a"]
+c:{"className":"bg-white/40"}
+b:["$","span",null,"$c"]
+8:["$9","$b"]
+7:{"className":"absolute left-[6%] top-[10%] grid h-[28%] w-[16%] grid-cols-2 gap-[0.6cqw] rounded-[1cqw] border-[0.6cqw] border-ink bg-sky/70 p-[0.6cqw]","children":"$8"}
+6:["$","span",null,"$7"]
+d:T695,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="90" cy="180" rx="10" ry="22" transform="rotate(12 90 180)" fill="#3fa352"/>
+  <ellipse cx="110" cy="180" rx="10" ry="22" transform="rotate(-12 110 180)" fill="#2f8f45"/>
+  <ellipse cx="100" cy="124" rx="48" ry="58" fill="#5cc26b"/>
+  <ellipse cx="100" cy="138" rx="28" ry="38" fill="#b5ecae" stroke="none"/>
+  <ellipse cx="58" cy="128" rx="16" ry="36" transform="rotate(14 58 128)" fill="#3fa352"/>
+  <ellipse cx="142" cy="128" rx="16" ry="36" transform="rotate(-14 142 128)" fill="#3fa352"/>
+  <path d="M84 176 l-6 12 M84 176 l0 13 M84 176 l6 12 M116 176 l-6 12 M116 176 l0 13 M116 176 l6 12" fill="none" stroke="#ff9f43" stroke-width="5"/>
+  <ellipse cx="92" cy="30" rx="7" ry="16" transform="rotate(-25 92 30)" fill="#3fa352"/>
+  <ellipse cx="108" cy="28" rx="7" ry="17" transform="rotate(20 108 28)" fill="#2f8f45"/>
+  <circle cx="100" cy="72" r="44" fill="#5cc26b"/>
+  <circle cx="82" cy="66" r="12" fill="#fff"/>
+  <circle cx="118" cy="66" r="12" fill="#fff"/>
+  <circle cx="84" cy="67" r="6" fill="#2b3a4a" stroke="none"/>
+  <circle cx="116" cy="67" r="6" fill="#2b3a4a" stroke="none"/>
+  <circle cx="86" cy="64" r="2" fill="#fff" stroke="none"/>
+  <circle cx="118" cy="64" r="2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="90" rx="8" ry="5" fill="#ff9fb0" stroke="none"/>
+  <ellipse cx="134" cy="90" rx="8" ry="5" fill="#ff9fb0" stroke="none"/>
+  <path d="M86 80 Q100 70 114 80 Q113 98 100 108 Q87 98 86 80 Z" fill="#ff6b4a"/>
+  <path d="M90 86 Q100 92 110 86" fill="none" stroke-width="2.5"/>
+</g>
+</svg>e:T893,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M56 70 Q58 26 100 24 Q142 26 144 70 Z" fill="#ffc93c"/>
+  <path d="M100 27 L100 64" fill="none" stroke-width="2.5"/>
+  <rect x="50" y="63" width="100" height="12" rx="6" fill="#f4a300"/>
+  <circle cx="100" cy="23" r="6" fill="#ff7a6b"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>f:T695,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="90" cy="180" rx="10" ry="22" transform="rotate(12 90 180)" fill="#3fa352"/>
+  <ellipse cx="110" cy="180" rx="10" ry="22" transform="rotate(-12 110 180)" fill="#2f8f45"/>
+  <ellipse cx="100" cy="124" rx="48" ry="58" fill="#5cc26b"/>
+  <ellipse cx="100" cy="138" rx="28" ry="38" fill="#b5ecae" stroke="none"/>
+  <ellipse cx="58" cy="128" rx="16" ry="36" transform="rotate(14 58 128)" fill="#3fa352"/>
+  <ellipse cx="142" cy="128" rx="16" ry="36" transform="rotate(-14 142 128)" fill="#3fa352"/>
+  <path d="M84 176 l-6 12 M84 176 l0 13 M84 176 l6 12 M116 176 l-6 12 M116 176 l0 13 M116 176 l6 12" fill="none" stroke="#ff9f43" stroke-width="5"/>
+  <ellipse cx="92" cy="30" rx="7" ry="16" transform="rotate(-25 92 30)" fill="#3fa352"/>
+  <ellipse cx="108" cy="28" rx="7" ry="17" transform="rotate(20 108 28)" fill="#2f8f45"/>
+  <circle cx="100" cy="72" r="44" fill="#5cc26b"/>
+  <circle cx="82" cy="66" r="12" fill="#fff"/>
+  <circle cx="118" cy="66" r="12" fill="#fff"/>
+  <circle cx="84" cy="67" r="6" fill="#2b3a4a" stroke="none"/>
+  <circle cx="116" cy="67" r="6" fill="#2b3a4a" stroke="none"/>
+  <circle cx="86" cy="64" r="2" fill="#fff" stroke="none"/>
+  <circle cx="118" cy="64" r="2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="90" rx="8" ry="5" fill="#ff9fb0" stroke="none"/>
+  <ellipse cx="134" cy="90" rx="8" ry="5" fill="#ff9fb0" stroke="none"/>
+  <path d="M86 80 Q100 70 114 80 Q113 98 100 108 Q87 98 86 80 Z" fill="#ff6b4a"/>
+  <path d="M90 86 Q100 92 110 86" fill="none" stroke-width="2.5"/>
+</g>
+</svg>10:T893,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M56 70 Q58 26 100 24 Q142 26 144 70 Z" fill="#ffc93c"/>
+  <path d="M100 27 L100 64" fill="none" stroke-width="2.5"/>
+  <rect x="50" y="63" width="100" height="12" rx="6" fill="#f4a300"/>
+  <circle cx="100" cy="23" r="6" fill="#ff7a6b"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>11:T893,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M56 70 Q58 26 100 24 Q142 26 144 70 Z" fill="#ffc93c"/>
+  <path d="M100 27 L100 64" fill="none" stroke-width="2.5"/>
+  <rect x="50" y="63" width="100" height="12" rx="6" fill="#f4a300"/>
+  <circle cx="100" cy="23" r="6" fill="#ff7a6b"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>13:{"className":"absolute right-[6%] top-[6%] text-[9cqw]","children":"☀️"}
+12:["$","span",null,"$13"]
+14:T695,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="90" cy="180" rx="10" ry="22" transform="rotate(12 90 180)" fill="#3fa352"/>
+  <ellipse cx="110" cy="180" rx="10" ry="22" transform="rotate(-12 110 180)" fill="#2f8f45"/>
+  <ellipse cx="100" cy="124" rx="48" ry="58" fill="#5cc26b"/>
+  <ellipse cx="100" cy="138" rx="28" ry="38" fill="#b5ecae" stroke="none"/>
+  <ellipse cx="58" cy="128" rx="16" ry="36" transform="rotate(14 58 128)" fill="#3fa352"/>
+  <ellipse cx="142" cy="128" rx="16" ry="36" transform="rotate(-14 142 128)" fill="#3fa352"/>
+  <path d="M84 176 l-6 12 M84 176 l0 13 M84 176 l6 12 M116 176 l-6 12 M116 176 l0 13 M116 176 l6 12" fill="none" stroke="#ff9f43" stroke-width="5"/>
+  <ellipse cx="92" cy="30" rx="7" ry="16" transform="rotate(-25 92 30)" fill="#3fa352"/>
+  <ellipse cx="108" cy="28" rx="7" ry="17" transform="rotate(20 108 28)" fill="#2f8f45"/>
+  <circle cx="100" cy="72" r="44" fill="#5cc26b"/>
+  <circle cx="82" cy="66" r="12" fill="#fff"/>
+  <circle cx="118" cy="66" r="12" fill="#fff"/>
+  <circle cx="84" cy="67" r="6" fill="#2b3a4a" stroke="none"/>
+  <circle cx="116" cy="67" r="6" fill="#2b3a4a" stroke="none"/>
+  <circle cx="86" cy="64" r="2" fill="#fff" stroke="none"/>
+  <circle cx="118" cy="64" r="2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="90" rx="8" ry="5" fill="#ff9fb0" stroke="none"/>
+  <ellipse cx="134" cy="90" rx="8" ry="5" fill="#ff9fb0" stroke="none"/>
+  <path d="M86 80 Q100 70 114 80 Q113 98 100 108 Q87 98 86 80 Z" fill="#ff6b4a"/>
+  <path d="M90 86 Q100 92 110 86" fill="none" stroke-width="2.5"/>
+</g>
+</svg>15:T893,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M56 70 Q58 26 100 24 Q142 26 144 70 Z" fill="#ffc93c"/>
+  <path d="M100 27 L100 64" fill="none" stroke-width="2.5"/>
+  <rect x="50" y="63" width="100" height="12" rx="6" fill="#f4a300"/>
+  <circle cx="100" cy="23" r="6" fill="#ff7a6b"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>18:T893,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M56 70 Q58 26 100 24 Q142 26 144 70 Z" fill="#ffc93c"/>
+  <path d="M100 27 L100 64" fill="none" stroke-width="2.5"/>
+  <rect x="50" y="63" width="100" height="12" rx="6" fill="#f4a300"/>
+  <circle cx="100" cy="23" r="6" fill="#ff7a6b"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>1b:T893,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M56 70 Q58 26 100 24 Q142 26 144 70 Z" fill="#ffc93c"/>
+  <path d="M100 27 L100 64" fill="none" stroke-width="2.5"/>
+  <rect x="50" y="63" width="100" height="12" rx="6" fill="#f4a300"/>
+  <circle cx="100" cy="23" r="6" fill="#ff7a6b"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>0:["ex3hcxZlll70zJTGos7QN",[[["",{"children":["stories",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["stories",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"className":"mx-auto max-w-shell px-4 py-10","children":[["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"font-display text-4xl font-extrabold sm:text-5xl","children":"Short moral stories for kids"}],["$","p",null,{"className":"mx-auto mt-3 max-w-2xl text-lg text-ink-dim","children":["Picture stories about sharing, honesty, patience and kindness — starring Gappu and his friends. Tap"," ",["$","strong",null,{"children":"🔈 Read to me"}]," and Gappu reads them aloud. Answer the questions at the end to earn ⭐ stars."]}],["$","$L2",null,{"total":8}]]}],["$","div",null,{"className":"mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L3","gappu-and-the-last-laddoo",{"href":"/stories/gappu-and-the-last-laddoo/","className":"group flex flex-col overflow-hidden rounded-3xl border-[3px] border-ink bg-white shadow-sticker transition hover:-translate-y-1","children":[["$","div",null,{"className":"p-3 pb-0","children":["$","div",null,{"className":"relative aspect-[16/10] w-full overflow-hidden rounded-3xl border-[3px] border-ink [container-type:inline-size] rounded-2xl","style":{"background":"#ffe6c2"},"aria-hidden":true,"children":[["$","span",null,{"className":"absolute left-[6%] top-[10%] grid h-[28%] w-[16%] grid-cols-2 gap-[0.6cqw] rounded-[1cqw] border-[0.6cqw] border-ink bg-sky/70 p-[0.6cqw]","children":[["$","span",null,{"className":"bg-white/40"}],["$","span",null,{"className":"bg-white/40"}]]}],["$","div",null,{"className":"absolute inset-x-0 bottom-0 h-[20%] border-t-[3px] border-ink/20","style":{"background":"#e2b98a"}}],[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full absolute drop-shadow-[0_0.6cqw_0_rgba(43,58,74,0.15)]","style":{"left":"30%","width":"34%","bottom":"6%","transform":"translateX(-50%)"},"dangerouslySetInnerHTML":{"__html":"$4"}}],["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full absolute drop-shadow-[0_0.6cqw_0_rgba(43,58,74,0.15)]","style":{"left":"70%","width":"26%","bottom":"6%","transform":"translateX(-50%)"},"dangerouslySetInnerHTML":{"__html":"$5"}}]],[["$","span","0",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"48%","top":"55%","fontSize":"6cqw","rotate":"$undefined"},"children":"🟠"}],["$","span","1",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"54%","top":"55%","fontSize":"6cqw","rotate":"$undefined"},"children":"🟠"}],["$","span","2",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"88%","top":"20%","fontSize":"7cqw","rotate":"$undefined"},"children":"🪔"}]]]}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","span",null,{"className":"self-start rounded-full border-2 border-ink bg-sun px-3 text-sm font-bold","children":["🟠"," ","Sharing"]}],["$","h2",null,{"className":"mt-2 font-display text-2xl font-extrabold leading-tight","children":"Gappu and the Last Laddoo"}],["$","p",null,{"className":"mt-1 flex-1 text-ink-dim","children":"It's Diwali, there's only one laddoo left — and two hungry friends at the door."}],["$","p",null,{"className":"mt-3 text-sm font-bold text-ink-mut","children":"Ages 2–8 · 3 min · read-aloud · quiz"}]]}]]}],["$","$L3","mithu-and-the-broken-pot",{"href":"/stories/mithu-and-the-broken-pot/","className":"group flex flex-col overflow-hidden rounded-3xl border-[3px] border-ink bg-white shadow-sticker transition hover:-translate-y-1","children":[["$","div",null,{"className":"p-3 pb-0","children":["$","div",null,{"className":"relative aspect-[16/10] w-full overflow-hidden rounded-3xl border-[3px] border-ink [container-type:inline-size] rounded-2xl","style":{"background":"#ffe6c2"},"aria-hidden":true,"children":["$6",["$","div",null,{"className":"absolute inset-x-0 bottom-0 h-[20%] border-t-[3px] border-ink/20","style":{"background":"#e2b98a"}}],[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full absolute drop-shadow-[0_0.6cqw_0_rgba(43,58,74,0.15)]","style":{"left":"45%","width":"18%","bottom":"36%","transform":"translateX(-50%)"},"dangerouslySetInnerHTML":{"__html":"$d"}}]],[["$","span","0",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"80%","top":"62%","fontSize":"9cqw","rotate":"$undefined"},"children":"🏺"}],["$","span","1",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"25%","top":"35%","fontSize":"8cqw","rotate":"$undefined"},"children":"💨"}]]]}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","span",null,{"className":"self-start rounded-full border-2 border-ink bg-mint px-3 text-sm font-bold","children":["🏺"," ","Honesty"]}],["$","h2",null,{"className":"mt-2 font-display text-2xl font-extrabold leading-tight","children":"Mithu and the Broken Pot"}],["$","p",null,{"className":"mt-1 flex-1 text-ink-dim","children":"Mithu breaks Amma's favourite pot — and Gappu gets the blame."}],["$","p",null,{"className":"mt-3 text-sm font-bold text-ink-mut","children":"Ages 2–8 · 3 min · read-aloud · quiz"}]]}]]}],["$","$L3","tiku-and-the-swing",{"href":"/stories/tiku-and-the-swing/","className":"group flex flex-col overflow-hidden rounded-3xl border-[3px] border-ink bg-white shadow-sticker transition hover:-translate-y-1","children":[["$","div",null,{"className":"p-3 pb-0","children":["$","div",null,{"className":"relative aspect-[16/10] w-full overflow-hidden rounded-3xl border-[3px] border-ink [container-type:inline-size] rounded-2xl","style":{"background":"#dff1fb"},"aria-hidden":true,"children":[[["$","span",null,{"className":"absolute left-[2%] top-[12%] text-[22cqw] leading-none","children":"🌳"}],["$","span",null,{"className":"absolute right-[5%] top-[6%] text-[8cqw]","children":"☀️"}]],["$","div",null,{"className":"absolute inset-x-0 bottom-0 h-[20%] border-t-[3px] border-ink/20","style":{"background":"#7ed6b0"}}],[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full absolute drop-shadow-[0_0.6cqw_0_rgba(43,58,74,0.15)]","style":{"left":"25%","width":"26%","bottom":"6%","transform":"translateX(-50%)"},"dangerouslySetInnerHTML":{"__html":"$e"}}],["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full absolute drop-shadow-[0_0.6cqw_0_rgba(43,58,74,0.15)]","style":{"left":"75%","width":"16%","bottom":"6%","transform":"translateX(-50%)"},"dangerouslySetInnerHTML":{"__html":"$f"}}]],"$undefined"]}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","span",null,{"className":"self-start rounded-full border-2 border-ink bg-sky px-3 text-sm font-bold","children":["🌳"," ","Patience"]}],["$","h2",null,{"className":"mt-2 font-display text-2xl font-extrabold leading-tight","children":"Tiku and the Swing"}],["$","p",null,{"className":"mt-1 flex-1 text-ink-dim","children":"One swing, three friends, and a lot of pushing — until Tiku shows a better way."}],["$","p",null,{"className":"mt-3 text-sm font-bold text-ink-mut","children":"Ages 2–8 · 3 min · read-aloud · quiz"}]]}]]}],["$","$L3","gappu-helps-in-the-rain",{"href":"/stories/gappu-helps-in-the-rain/","className":"group flex flex-col overflow-hidden rounded-3xl border-[3px] border-ink bg-white shadow-sticker transition hover:-translate-y-1","children":[["$","div",null,{"className":"p-3 pb-0","children":["$","div",null,{"className":"relative aspect-[16/10] w-full overflow-hidden rounded-3xl border-[3px] border-ink [container-type:inline-size] rounded-2xl","style":{"background":"#b9c8d8"},"aria-hidden":true,"children":[[["$","span",null,{"className":"absolute left-[8%] top-[2%] text-[10cqw]","children":"🌧️"}],["$","span",null,{"className":"absolute right-[10%] top-[4%] text-[9cqw]","children":"🌧️"}],[["$","span","15",{"className":"absolute text-[3cqw]","style":{"left":"15%","top":"28%"},"children":"💧"}],["$","span","32",{"className":"absolute text-[3cqw]","style":{"left":"32%","top":"40%"},"children":"💧"}],["$","span","50",{"className":"absolute text-[3cqw]","style":{"left":"50%","top":"28%"},"children":"💧"}],["$","span","68",{"className":"absolute text-[3cqw]","style":{"left":"68%","top":"40%"},"children":"💧"}],["$","span","84",{"className":"absolute text-[3cqw]","style":{"left":"84%","top":"28%"},"children":"💧"}]]],["$","div",null,{"className":"absolute inset-x-0 bottom-0 h-[20%] border-t-[3px] border-ink/20","style":{"background":"#6fbf9c"}}],[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full absolute drop-shadow-[0_0.6cqw_0_rgba(43,58,74,0.15)]","style":{"left":"50%","width":"30%","bottom":"6%","transform":"translateX(-50%)"},"dangerouslySetInnerHTML":{"__html":"$10"}}]],[["$","span","0",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"30%","top":"72%","fontSize":"8cqw","rotate":"$undefined"},"children":"💦"}],["$","span","1",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"70%","top":"72%","fontSize":"8cqw","rotate":"$undefined"},"children":"💦"}]]]}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","span",null,{"className":"self-start rounded-full border-2 border-ink bg-gappu-light px-3 text-sm font-bold","children":["🌧️"," ","Helping"]}],["$","h2",null,{"className":"mt-2 font-display text-2xl font-extrabold leading-tight","children":"Gappu Helps in the Rain"}],["$","p",null,{"className":"mt-1 flex-1 text-ink-dim","children":"Puddles are SO much fun — but Tiku is getting soaked."}],["$","p",null,{"className":"mt-3 text-sm font-bold text-ink-mut","children":"Ages 2–8 · 3 min · read-aloud · quiz"}]]}]]}],["$","$L3","the-thank-you-trunk-wave",{"href":"/stories/the-thank-you-trunk-wave/","className":"group flex flex-col overflow-hidden rounded-3xl border-[3px] border-ink bg-white shadow-sticker transition hover:-translate-y-1","children":[["$","div",null,{"className":"p-3 pb-0","children":["$","div",null,{"className":"relative aspect-[16/10] w-full overflow-hidden rounded-3xl border-[3px] border-ink [container-type:inline-size] rounded-2xl","style":{"background":"#dff1fb"},"aria-hidden":true,"children":[["$","span",null,{"className":"absolute right-[6%] top-[6%] text-[9cqw]","children":"☀️"}],["$","div",null,{"className":"absolute inset-x-0 bottom-0 h-[20%] border-t-[3px] border-ink/20","style":{"background":"#7ed6b0"}}],[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full absolute drop-shadow-[0_0.6cqw_0_rgba(43,58,74,0.15)]","style":{"left":"50%","width":"30%","bottom":"6%","transform":"translateX(-50%)"},"dangerouslySetInnerHTML":{"__html":"$11"}}]],[["$","span","0",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"15%","top":"15%","fontSize":"10cqw","rotate":"$undefined"},"children":"🎈"}],["$","span","1",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"85%","top":"20%","fontSize":"10cqw","rotate":"$undefined"},"children":"🎈"}],["$","span","2",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"50%","top":"8%","fontSize":"8cqw","rotate":"$undefined"},"children":"🎉"}]]]}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","span",null,{"className":"self-start rounded-full border-2 border-ink bg-blush px-3 text-sm font-bold","children":["🎂"," ","Gratitude"]}],["$","h2",null,{"className":"mt-2 font-display text-2xl font-extrabold leading-tight","children":"The Thank-You Trunk Wave"}],["$","p",null,{"className":"mt-1 flex-1 text-ink-dim","children":"It's Gappu's birthday and everyone has helped — but Gappu forgets something important."}],["$","p",null,{"className":"mt-3 text-sm font-bold text-ink-mut","children":"Ages 2–8 · 3 min · read-aloud · quiz"}]]}]]}],["$","$L3","gappus-big-sorry",{"href":"/stories/gappus-big-sorry/","className":"group flex flex-col overflow-hidden rounded-3xl border-[3px] border-ink bg-white shadow-sticker transition hover:-translate-y-1","children":[["$","div",null,{"className":"p-3 pb-0","children":["$","div",null,{"className":"relative aspect-[16/10] w-full overflow-hidden rounded-3xl border-[3px] border-ink [container-type:inline-size] rounded-2xl","style":{"background":"#dff1fb"},"aria-hidden":true,"children":["$12",["$","div",null,{"className":"absolute inset-x-0 bottom-0 h-[20%] border-t-[3px] border-ink/20","style":{"background":"#7ed6b0"}}],[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full absolute drop-shadow-[0_0.6cqw_0_rgba(43,58,74,0.15)]","style":{"left":"30%","width":"18%","bottom":"6%","transform":"translateX(-50%)"},"dangerouslySetInnerHTML":{"__html":"$14"}}]],[["$","span","0",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"65%","top":"68%","fontSize":"14cqw","rotate":"$undefined"},"children":"🌞"}]]]}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","span",null,{"className":"self-start rounded-full border-2 border-ink bg-coral px-3 text-sm font-bold","children":["🎨"," ","Saying Sorry"]}],["$","h2",null,{"className":"mt-2 font-display text-2xl font-extrabold leading-tight","children":"Gappu's Big Sorry"}],["$","p",null,{"className":"mt-1 flex-1 text-ink-dim","children":"One big elephant foot, one ruined drawing — and a very important word."}],["$","p",null,{"className":"mt-3 text-sm font-bold text-ink-mut","children":"Ages 2–8 · 3 min · read-aloud · quiz"}]]}]]}],["$","$L3","the-little-lost-puppy",{"href":"/stories/the-little-lost-puppy/","className":"group flex flex-col overflow-hidden rounded-3xl border-[3px] border-ink bg-white shadow-sticker transition hover:-translate-y-1","children":[["$","div",null,{"className":"p-3 pb-0","children":["$","div",null,{"className":"relative aspect-[16/10] w-full overflow-hidden rounded-3xl border-[3px] border-ink [container-type:inline-size] rounded-2xl","style":{"background":"#dff1fb"},"aria-hidden":true,"children":["$12",["$","div",null,{"className":"absolute inset-x-0 bottom-0 h-[20%] border-t-[3px] border-ink/20","style":{"background":"#7ed6b0"}}],[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full absolute drop-shadow-[0_0.6cqw_0_rgba(43,58,74,0.15)]","style":{"left":"35%","width":"28%","bottom":"6%","transform":"translateX(-50%)"},"dangerouslySetInnerHTML":{"__html":"$15"}}]],[["$","span","0",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"60%","top":"22%","fontSize":"7cqw","rotate":"$undefined"},"children":"👂"}],["$","span","1",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"82%","top":"70%","fontSize":"10cqw","rotate":"$undefined"},"children":"🛒"}]]]}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","span",null,{"className":"self-start rounded-full border-2 border-ink bg-sun px-3 text-sm font-bold","children":["🐶"," ","Kindness to Animals"]}],["$","h2",null,{"className":"mt-2 font-display text-2xl font-extrabold leading-tight","children":"The Little Lost Puppy"}],["$","p",null,{"className":"mt-1 flex-1 text-ink-dim","children":"Everyone walks past the shivering puppy. Everyone except Gappu."}],["$","p",null,{"className":"mt-3 text-sm font-bold text-ink-mut","children":"Ages 2–8 · 3 min · read-aloud · quiz"}]]}]]}],["$","$L3","everyone-can-play",{"href":"/stories/everyone-can-play/","className":"group flex flex-col overflow-hidden rounded-3xl border-[3px] border-ink bg-white shadow-sticker transition hover:-translate-y-1","children":[["$","div",null,{"className":"p-3 pb-0","children":["$","div",null,{"className":"relative aspect-[16/10] w-full overflow-hidden rounded-3xl border-[3px] border-ink [container-type:inline-size] rounded-2xl","style":{"background":"#dff1fb"},"aria-hidden":true,"children":[[["$","span",null,{"className":"absolute bottom-[3%] left-[8%] h-[14%] w-[36%] rounded-[50%] border-[0.6cqw] border-ink bg-sky"}],["$","span",null,{"className":"absolute right-[6%] top-[6%] text-[8cqw]","children":"☀️"}],["$","span",null,{"className":"absolute bottom-[6%] left-[18%] text-[4cqw]","children":"🪷"}]],["$","div",null,{"className":"absolute inset-x-0 bottom-0 h-[20%] border-t-[3px] border-ink/20","style":{"background":"#7ed6b0"}}],[["$","span","0",{"className":"absolute text-center leading-none","style":{"left":"50%","width":"14%","bottom":"6%","transform":"translateX(-50%)","fontSize":"12.6cqw"},"children":"🐿️"}]],[["$","span","0",{"className":"absolute -translate-x-1/2 -translate-y-1/2 leading-none","style":{"left":"62%","top":"30%","fontSize":"6cqw","rotate":"$undefined"},"children":"✨"}]]]}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","span",null,{"className":"self-start rounded-full border-2 border-ink bg-mint px-3 text-sm font-bold","children":["🐿️"," ","Including Others"]}],["$","h2",null,{"className":"mt-2 font-display text-2xl font-extrabold leading-tight","children":"Everyone Can Play"}],["$","p",null,{"className":"mt-1 flex-1 text-ink-dim","children":"Chiku the squirrel is new, small and shy. Is she too little to join the game?"}],["$","p",null,{"className":"mt-3 text-sm font-bold text-ink-mut","children":"Ages 2–8 · 3 min · read-aloud · quiz"}]]}]]}]]}]]}],null],null],null]},[null,["$","$L16",null,{"parallelRouterKey":"children","segmentPath":["children","stories","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L17",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f0905d5f50d7695b.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_ad8880 __variable_9637e0","children":["$","body",null,{"className":"font-body antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Gappu Kids\",\"url\":\"https://gappukids.com\",\"logo\":\"https://gappukids.com/icon-512.png\",\"description\":\"Free learning games, read-aloud moral stories and daily kindness missions for kids aged 2 to 8. Earn stars, collect badges and grow kind with Gappu the elephant. No ads, no sign-up.\",\"parentOrganization\":{\"@type\":\"Organization\",\"name\":\"HiddenHire\"}}"}}],["$","header",null,{"className":"no-print sticky top-0 z-20 border-b-[3px] border-ink bg-cream/95 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-shell items-center justify-between gap-3 px-4 py-2","children":[["$","$L3",null,{"href":"/","className":"flex items-center gap-2","aria-label":"Gappu Kids home","children":[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full h-10 w-10","style":"$undefined","dangerouslySetInnerHTML":{"__html":"$18"}}],["$","span",null,{"className":"font-display text-2xl font-extrabold leading-none","children":["Gappu ",["$","span",null,{"className":"text-coral-deep","children":"Kids"}]]}]]}],["$","$L19",null,{}],["$","$L1a",null,{}]]}]}],["$","main",null,{"className":"pb-24 md:pb-0","children":["$","$L16",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L17",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"no-print mt-20 bg-ink pb-24 text-cream md:pb-0","children":[["$","div",null,{"className":"mx-auto grid max-w-shell gap-8 px-4 py-10 sm:grid-cols-[1.4fr_1fr_1fr]","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-3","children":[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full h-14 w-14","style":"$undefined","dangerouslySetInnerHTML":{"__html":"$1b"}}],["$","div",null,{"children":[["$","p",null,{"className":"font-display text-xl font-extrabold","children":"Gappu Kids"}],["$","p",null,{"className":"text-sm text-cream/75","children":["Learn, play & grow kind","."]}]]}]]}],["$","p",null,{"className":"mt-4 max-w-xs text-sm text-cream/75","children":"Free learning games, moral stories and kindness missions for kids aged 2–8. No ads, no sign-up, no data collected."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg font-extrabold text-sun","children":"Play & learn"}],["$","ul",null,{"className":"mt-2 space-y-1 text-sm text-cream/85","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/games/","className":"hover:underline","children":"Learning games"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/stories/","className":"hover:underline","children":"Moral stories"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/missions/","className":"hover:underline","children":"Kindness missions"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/printables/","className":"hover:underline","children":"Colouring pages & charts"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/me/","className":"hover:underline","children":"My Gappu"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg font-extrabold text-sun","children":"Grown-ups"}],["$","ul",null,{"className":"mt-2 space-y-1 text-sm text-cream/85","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/parents/","className":"hover:underline","children":"Parents & progress"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/books/","className":"hover:underline","children":"Gappu books"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/shop/","className":"hover:underline","children":"Shop (coming soon)"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/privacy/","className":"hover:underline","children":"Privacy"}]}],""]}]]}]]}],["$","p",null,{"className":"border-t border-cream/15 py-4 text-center text-xs text-cream/60","children":["© ",2026," Gappu Kids · a ","HiddenHire"," studio"]}]]}],["$","$L1c",null,{}],["$","$L1d",null,{}]]}]}]],null],null],["$L1e",null]]]]
+1e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#ffc93c"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"Short Moral Stories for Kids — read aloud with Gappu — Gappu Kids"}],["$","meta","4",{"name":"description","content":"Free short moral stories for kids aged 2 to 8 about sharing, honesty, patience, helping and kindness. Picture stories with read-aloud, a moral and a quiz. Perfect for bedtime."}],["$","meta","5",{"name":"keywords","content":"learning games for kids,free educational games for kids,moral stories for kids,short moral stories in english,kindness activities for kids,good manners for kids,counting games for toddlers,alphabet games for kids,free colouring pages for kids,preschool learning website,kids learning India"}],["$","link","6",{"rel":"canonical","href":"https://gappukids.com/stories/"}],["$","meta","7",{"property":"og:title","content":"Gappu Kids — Learn, play & grow kind"}],["$","meta","8",{"property":"og:description","content":"Free learning games, read-aloud moral stories and daily kindness missions for kids aged 2 to 8. Earn stars, collect badges and grow kind with Gappu the elephant. No ads, no sign-up."}],["$","meta","9",{"property":"og:url","content":"https://gappukids.com/"}],["$","meta","10",{"property":"og:site_name","content":"Gappu Kids"}],["$","meta","11",{"property":"og:image","content":"https://gappukids.com/og.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Gappu the baby elephant"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Gappu Kids — Learn, play & grow kind"}],["$","meta","18",{"name":"twitter:description","content":"Free learning games, read-aloud moral stories and daily kindness missions for kids aged 2 to 8. Earn stars, collect badges and grow kind with Gappu the elephant. No ads, no sign-up."}],["$","meta","19",{"name":"twitter:image","content":"https://gappukids.com/og.png"}],["$","meta","20",{"name":"twitter:image:width","content":"1200"}],["$","meta","21",{"name":"twitter:image:height","content":"630"}],["$","meta","22",{"name":"twitter:image:alt","content":"Gappu the baby elephant"}],["$","link","23",{"rel":"icon","href":"/icon-32.png","sizes":"32x32"}],["$","link","24",{"rel":"apple-touch-icon","href":"/icon-180.png","sizes":"180x180"}]]
+1:null

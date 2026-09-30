@@ -1,0 +1,152 @@
+5:I[5411,["411","static/chunks/411-e05764ad5c6e83b8.js","21","static/chunks/app/shop/page-b48ff61aa3b9dbf8.js"],""]
+6:I[2728,[],""]
+7:I[9836,[],""]
+9:I[6488,["411","static/chunks/411-e05764ad5c6e83b8.js","586","static/chunks/586-142db2ce3ee37c4d.js","185","static/chunks/app/layout-5e2e36b2d962a103.js"],"TopNav"]
+a:I[1271,["411","static/chunks/411-e05764ad5c6e83b8.js","586","static/chunks/586-142db2ce3ee37c4d.js","185","static/chunks/app/layout-5e2e36b2d962a103.js"],"StarCounter"]
+c:I[6488,["411","static/chunks/411-e05764ad5c6e83b8.js","586","static/chunks/586-142db2ce3ee37c4d.js","185","static/chunks/app/layout-5e2e36b2d962a103.js"],"BottomNav"]
+d:I[9148,["411","static/chunks/411-e05764ad5c6e83b8.js","586","static/chunks/586-142db2ce3ee37c4d.js","185","static/chunks/app/layout-5e2e36b2d962a103.js"],"RewardToaster"]
+2:T695,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="90" cy="180" rx="10" ry="22" transform="rotate(12 90 180)" fill="#3fa352"/>
+  <ellipse cx="110" cy="180" rx="10" ry="22" transform="rotate(-12 110 180)" fill="#2f8f45"/>
+  <ellipse cx="100" cy="124" rx="48" ry="58" fill="#5cc26b"/>
+  <ellipse cx="100" cy="138" rx="28" ry="38" fill="#b5ecae" stroke="none"/>
+  <ellipse cx="58" cy="128" rx="16" ry="36" transform="rotate(14 58 128)" fill="#3fa352"/>
+  <ellipse cx="142" cy="128" rx="16" ry="36" transform="rotate(-14 142 128)" fill="#3fa352"/>
+  <path d="M84 176 l-6 12 M84 176 l0 13 M84 176 l6 12 M116 176 l-6 12 M116 176 l0 13 M116 176 l6 12" fill="none" stroke="#ff9f43" stroke-width="5"/>
+  <ellipse cx="92" cy="30" rx="7" ry="16" transform="rotate(-25 92 30)" fill="#3fa352"/>
+  <ellipse cx="108" cy="28" rx="7" ry="17" transform="rotate(20 108 28)" fill="#2f8f45"/>
+  <circle cx="100" cy="72" r="44" fill="#5cc26b"/>
+  <circle cx="82" cy="66" r="12" fill="#fff"/>
+  <circle cx="118" cy="66" r="12" fill="#fff"/>
+  <circle cx="84" cy="67" r="6" fill="#2b3a4a" stroke="none"/>
+  <circle cx="116" cy="67" r="6" fill="#2b3a4a" stroke="none"/>
+  <circle cx="86" cy="64" r="2" fill="#fff" stroke="none"/>
+  <circle cx="118" cy="64" r="2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="90" rx="8" ry="5" fill="#ff9fb0" stroke="none"/>
+  <ellipse cx="134" cy="90" rx="8" ry="5" fill="#ff9fb0" stroke="none"/>
+  <path d="M86 80 Q100 70 114 80 Q113 98 100 108 Q87 98 86 80 Z" fill="#ff6b4a"/>
+  <path d="M90 86 Q100 92 110 86" fill="none" stroke-width="2.5"/>
+</g>
+</svg>3:T893,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M56 70 Q58 26 100 24 Q142 26 144 70 Z" fill="#ffc93c"/>
+  <path d="M100 27 L100 64" fill="none" stroke-width="2.5"/>
+  <rect x="50" y="63" width="100" height="12" rx="6" fill="#f4a300"/>
+  <circle cx="100" cy="23" r="6" fill="#ff7a6b"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>4:T6f5,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="50" cy="178" rx="18" ry="20" fill="#a5cf6e"/>
+  <ellipse cx="150" cy="178" rx="18" ry="20" fill="#a5cf6e"/>
+  <path d="M26 158 Q24 58 100 54 Q176 58 174 158 Z" fill="#b7845a"/>
+  <ellipse cx="100" cy="82" rx="24" ry="17" fill="#d9a878" stroke-width="2.5"/>
+  <ellipse cx="58" cy="112" rx="16" ry="18" fill="#d9a878" stroke-width="2.5"/>
+  <ellipse cx="142" cy="112" rx="16" ry="18" fill="#d9a878" stroke-width="2.5"/>
+  <ellipse cx="46" cy="146" rx="10" ry="8" fill="#d9a878" stroke-width="2.5"/>
+  <ellipse cx="154" cy="146" rx="10" ry="8" fill="#d9a878" stroke-width="2.5"/>
+  <rect x="22" y="152" width="156" height="16" rx="8" fill="#8d6240"/>
+  <ellipse cx="70" cy="190" rx="16" ry="12" fill="#a5cf6e"/>
+  <ellipse cx="130" cy="190" rx="16" ry="12" fill="#a5cf6e"/>
+  <path d="M62 196 q3 -5 6 0 M70 197 q3 -5 6 0 M122 196 q3 -5 6 0 M130 197 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <rect x="84" y="140" width="32" height="30" rx="12" fill="#a5cf6e"/>
+  <circle cx="100" cy="126" r="36" fill="#a5cf6e"/>
+  <path d="M74 110 Q86 104 96 112 M104 112 Q114 104 126 110" fill="none" stroke-width="2.5"/>
+  <circle cx="86" cy="122" r="12" fill="#eef7ff"/>
+  <circle cx="114" cy="122" r="12" fill="#eef7ff"/>
+  <path d="M98 121 L102 121" fill="none"/>
+  <circle cx="87" cy="123" r="4.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="113" cy="123" r="4.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="74" cy="140" rx="7" ry="4.5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="126" cy="140" rx="7" ry="4.5" fill="#f6a5b8" stroke="none"/>
+  <path d="M88 142 Q100 152 112 142" fill="none" stroke-width="3"/>
+</g>
+</svg>8:T893,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M56 70 Q58 26 100 24 Q142 26 144 70 Z" fill="#ffc93c"/>
+  <path d="M100 27 L100 64" fill="none" stroke-width="2.5"/>
+  <rect x="50" y="63" width="100" height="12" rx="6" fill="#f4a300"/>
+  <circle cx="100" cy="23" r="6" fill="#ff7a6b"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>b:T893,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 206">
+<g stroke="#2b3a4a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+  <ellipse cx="100" cy="150" rx="46" ry="40" fill="#a9bdd1"/>
+  <ellipse cx="100" cy="158" rx="26" ry="22" fill="#c3d3e2" stroke="none"/>
+  <ellipse cx="60" cy="148" rx="12" ry="19" transform="rotate(22 60 148)" fill="#a9bdd1"/>
+  <ellipse cx="140" cy="148" rx="12" ry="19" transform="rotate(-22 140 148)" fill="#a9bdd1"/>
+  <ellipse cx="78" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <ellipse cx="122" cy="186" rx="18" ry="13" fill="#a9bdd1"/>
+  <path d="M70 193 q3 -5 6 0 M78 194 q3 -5 6 0 M86 193 q3 -5 6 0 M108 193 q3 -5 6 0 M116 194 q3 -5 6 0 M124 193 q3 -5 6 0" fill="none" stroke-width="2.5"/>
+  <ellipse cx="46" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="50" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <ellipse cx="154" cy="84" rx="36" ry="42" fill="#a9bdd1"/>
+  <ellipse cx="150" cy="86" rx="22" ry="28" fill="#f6b8c9" stroke-width="2.5"/>
+  <circle cx="100" cy="84" r="48" fill="#a9bdd1"/>
+  <path d="M56 70 Q58 26 100 24 Q142 26 144 70 Z" fill="#ffc93c"/>
+  <path d="M100 27 L100 64" fill="none" stroke-width="2.5"/>
+  <rect x="50" y="63" width="100" height="12" rx="6" fill="#f4a300"/>
+  <circle cx="100" cy="23" r="6" fill="#ff7a6b"/>
+  <ellipse cx="82" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <ellipse cx="118" cy="92" rx="6" ry="7.5" fill="#2b3a4a" stroke="none"/>
+  <circle cx="84" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <circle cx="120" cy="89" r="2.2" fill="#fff" stroke="none"/>
+  <ellipse cx="66" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <ellipse cx="134" cy="108" rx="8" ry="5" fill="#f6a5b8" stroke="none"/>
+  <path d="M73 116 Q79 123 86 118" fill="none" stroke-width="2.5"/>
+  
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke-width="22"/>
+  <path d="M100 92 C98 116 95 132 103 140 C111 148 125 143 125 130" fill="none" stroke="#a9bdd1" stroke-width="15"/>
+  <circle cx="100" cy="90" r="11.5" fill="#a9bdd1" stroke="none"/>
+  <path d="M96 124 q5 2 9 0 M97 132 q5 2 9 0" fill="none" stroke-width="2"/>
+</g>
+</svg>0:["ex3hcxZlll70zJTGos7QN",[[["",{"children":["shop",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["shop",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"className":"mx-auto max-w-shell px-4 py-10","children":[["$","div",null,{"className":"flex flex-col items-center text-center","children":[["$","div",null,{"className":"flex items-end gap-1","children":[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full w-16","style":"$undefined","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full w-32","style":"$undefined","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full w-20","style":"$undefined","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],["$","h1",null,{"className":"mt-3 font-display text-4xl font-extrabold sm:text-5xl","children":"Gappu Shop"}],["$","p",null,{"className":"mt-2 inline-block rounded-full border-[3px] border-ink bg-sun px-4 py-1 font-display text-lg font-extrabold","children":"Coming soon"}],["$","p",null,{"className":"mt-3 max-w-xl text-lg text-ink-dim","children":"Here’s what we’re making. Everything is designed to help kids learn kindness — away from the screen too."}]]}],["$","div",null,{"className":"mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3","children":[["$","div","Gappu & Friends books",{"className":"relative rounded-3xl border-[3px] border-ink bg-white p-6 shadow-sticker","children":[["$","span",null,{"className":"absolute right-4 top-4 rounded-full border-2 border-ink bg-coral px-2.5 text-sm font-bold","children":"First up"}],["$","span",null,{"className":"text-5xl","children":"📚"}],["$","h2",null,{"className":"mt-3 font-display text-2xl font-extrabold","children":"Gappu & Friends books"}],["$","p",null,{"className":"mt-1 text-ink-dim","children":"Picture books that teach one good habit each. Book 1, Gappu Says Please, is nearly ready."}]]}],["$","div","Gappu plush toy",{"className":"relative rounded-3xl border-[3px] border-ink bg-white p-6 shadow-sticker","children":["$undefined",["$","span",null,{"className":"text-5xl","children":"🧸"}],["$","h2",null,{"className":"mt-3 font-display text-2xl font-extrabold","children":"Gappu plush toy"}],["$","p",null,{"className":"mt-1 text-ink-dim","children":"A soft, huggable Gappu with his yellow cap — a bedtime buddy for kind little hearts."}]]}],["$","div","Kindness sticker & reward pack",{"className":"relative rounded-3xl border-[3px] border-ink bg-white p-6 shadow-sticker","children":["$undefined",["$","span",null,{"className":"text-5xl","children":"⭐"}],["$","h2",null,{"className":"mt-3 font-display text-2xl font-extrabold","children":"Kindness sticker & reward pack"}],["$","p",null,{"className":"mt-1 text-ink-dim","children":"A fridge chart plus 100+ stickers to reward good deeds at home."}]]}],["$","div","Activity & colouring books",{"className":"relative rounded-3xl border-[3px] border-ink bg-white p-6 shadow-sticker","children":["$undefined",["$","span",null,{"className":"text-5xl","children":"🖍️"}],["$","h2",null,{"className":"mt-3 font-display text-2xl font-extrabold","children":"Activity & colouring books"}],["$","p",null,{"className":"mt-1 text-ink-dim","children":"Colouring, tracing, counting and spot-the-good-manners puzzles."}]]}],["$","div","A yellow cap like Gappu's",{"className":"relative rounded-3xl border-[3px] border-ink bg-white p-6 shadow-sticker","children":["$undefined",["$","span",null,{"className":"text-5xl","children":"🧢"}],["$","h2",null,{"className":"mt-3 font-display text-2xl font-extrabold","children":"A yellow cap like Gappu's"}],["$","p",null,{"className":"mt-1 text-ink-dim","children":"For kids who want to be just like Gappu."}]]}],["$","div","21-Day Kindness Course",{"className":"relative rounded-3xl border-[3px] border-ink bg-white p-6 shadow-sticker","children":["$undefined",["$","span",null,{"className":"text-5xl","children":"🎓"}],["$","h2",null,{"className":"mt-3 font-display text-2xl font-extrabold","children":"21-Day Kindness Course"}],["$","p",null,{"className":"mt-1 text-ink-dim","children":"A guided programme for parents: one story, one game and one mission a day, with a certificate at the end."}]]}]]}],["$","p",null,{"className":"mt-10 text-center text-lg","children":["Meanwhile, everything on Gappu Kids is free —"," ",["$","$L5",null,{"href":"/games/","className":"font-bold text-coral-deep underline","children":"go play!"}]]}]]}],null],null],null]},[null,["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","shop","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f0905d5f50d7695b.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_ad8880 __variable_9637e0","children":["$","body",null,{"className":"font-body antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Gappu Kids\",\"url\":\"https://gappukids.com\",\"logo\":\"https://gappukids.com/icon-512.png\",\"description\":\"Free learning games, read-aloud moral stories and daily kindness missions for kids aged 2 to 8. Earn stars, collect badges and grow kind with Gappu the elephant. No ads, no sign-up.\",\"parentOrganization\":{\"@type\":\"Organization\",\"name\":\"HiddenHire\"}}"}}],["$","header",null,{"className":"no-print sticky top-0 z-20 border-b-[3px] border-ink bg-cream/95 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex max-w-shell items-center justify-between gap-3 px-4 py-2","children":[["$","$L5",null,{"href":"/","className":"flex items-center gap-2","aria-label":"Gappu Kids home","children":[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full h-10 w-10","style":"$undefined","dangerouslySetInnerHTML":{"__html":"$8"}}],["$","span",null,{"className":"font-display text-2xl font-extrabold leading-none","children":["Gappu ",["$","span",null,{"className":"text-coral-deep","children":"Kids"}]]}]]}],["$","$L9",null,{}],["$","$La",null,{}]]}]}],["$","main",null,{"className":"pb-24 md:pb-0","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"no-print mt-20 bg-ink pb-24 text-cream md:pb-0","children":[["$","div",null,{"className":"mx-auto grid max-w-shell gap-8 px-4 py-10 sm:grid-cols-[1.4fr_1fr_1fr]","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-3","children":[["$","div",null,{"aria-hidden":true,"className":"[&>svg]:block [&>svg]:h-full [&>svg]:w-full h-14 w-14","style":"$undefined","dangerouslySetInnerHTML":{"__html":"$b"}}],["$","div",null,{"children":[["$","p",null,{"className":"font-display text-xl font-extrabold","children":"Gappu Kids"}],["$","p",null,{"className":"text-sm text-cream/75","children":["Learn, play & grow kind","."]}]]}]]}],["$","p",null,{"className":"mt-4 max-w-xs text-sm text-cream/75","children":"Free learning games, moral stories and kindness missions for kids aged 2–8. No ads, no sign-up, no data collected."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg font-extrabold text-sun","children":"Play & learn"}],["$","ul",null,{"className":"mt-2 space-y-1 text-sm text-cream/85","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/games/","className":"hover:underline","children":"Learning games"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/stories/","className":"hover:underline","children":"Moral stories"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/missions/","className":"hover:underline","children":"Kindness missions"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/printables/","className":"hover:underline","children":"Colouring pages & charts"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/me/","className":"hover:underline","children":"My Gappu"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg font-extrabold text-sun","children":"Grown-ups"}],["$","ul",null,{"className":"mt-2 space-y-1 text-sm text-cream/85","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/parents/","className":"hover:underline","children":"Parents & progress"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/books/","className":"hover:underline","children":"Gappu books"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/shop/","className":"hover:underline","children":"Shop (coming soon)"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/privacy/","className":"hover:underline","children":"Privacy"}]}],""]}]]}]]}],["$","p",null,{"className":"border-t border-cream/15 py-4 text-center text-xs text-cream/60","children":["© ",2026," Gappu Kids · a ","HiddenHire"," studio"]}]]}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]}]],null],null],["$Le",null]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#ffc93c"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"Gappu Shop — coming soon — Gappu Kids"}],["$","meta","4",{"name":"description","content":"Gappu plush toys, picture books, sticker reward packs and activity books for kids — coming soon to Gappu Kids."}],["$","meta","5",{"name":"keywords","content":"learning games for kids,free educational games for kids,moral stories for kids,short moral stories in english,kindness activities for kids,good manners for kids,counting games for toddlers,alphabet games for kids,free colouring pages for kids,preschool learning website,kids learning India"}],["$","link","6",{"rel":"canonical","href":"https://gappukids.com/shop/"}],["$","meta","7",{"property":"og:title","content":"Gappu Kids — Learn, play & grow kind"}],["$","meta","8",{"property":"og:description","content":"Free learning games, read-aloud moral stories and daily kindness missions for kids aged 2 to 8. Earn stars, collect badges and grow kind with Gappu the elephant. No ads, no sign-up."}],["$","meta","9",{"property":"og:url","content":"https://gappukids.com/"}],["$","meta","10",{"property":"og:site_name","content":"Gappu Kids"}],["$","meta","11",{"property":"og:image","content":"https://gappukids.com/og.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Gappu the baby elephant"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Gappu Kids — Learn, play & grow kind"}],["$","meta","18",{"name":"twitter:description","content":"Free learning games, read-aloud moral stories and daily kindness missions for kids aged 2 to 8. Earn stars, collect badges and grow kind with Gappu the elephant. No ads, no sign-up."}],["$","meta","19",{"name":"twitter:image","content":"https://gappukids.com/og.png"}],["$","meta","20",{"name":"twitter:image:width","content":"1200"}],["$","meta","21",{"name":"twitter:image:height","content":"630"}],["$","meta","22",{"name":"twitter:image:alt","content":"Gappu the baby elephant"}],["$","link","23",{"rel":"icon","href":"/icon-32.png","sizes":"32x32"}],["$","link","24",{"rel":"apple-touch-icon","href":"/icon-180.png","sizes":"180x180"}]]
+1:null
