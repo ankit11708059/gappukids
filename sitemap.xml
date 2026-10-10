@@ -81,6 +81,11 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://gappukids.com/videos/</loc>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
 <loc>https://gappukids.com/missions/</loc>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
